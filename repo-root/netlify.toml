@@ -1,4 +1,4 @@
 [build]
-  base = "myapp"
+  base = "website 5"
   command = "npm run build"
-  publish = "myapp/dist"
+  publish = "website 5/dist"
